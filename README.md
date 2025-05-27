@@ -20,17 +20,6 @@ Este projeto tem como objetivo realizar uma análise exploratória e visual das 
 
 ---
 
-## 🗂️ Estrutura do Projeto
-
-📁 adventure-works-sales-analysis/
-├── data/ # 
-├── scripts/ # 
-├── visuals/ # vendasporcategoria.csv
-├── README.md 
-
-
----
-
 ## 📌 Principais Descobertas
 
 - 🚴‍♂️ As categorias **Bikes** e **Accessories** representam a maior parte da receita.
