@@ -27,6 +27,7 @@ Este projeto tem como objetivo realizar uma análise exploratória e visual das 
 - 📦 Produtos de alto valor têm menor volume, mas geram mais receita unitária.
 
 ---
+![Vendas por categoria](vendasporproduto.png)
 
 ## 📈 Visualizações
 
